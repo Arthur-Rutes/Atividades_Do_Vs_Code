@@ -12,7 +12,7 @@ print("Ultimas 3 Linhas Do Mercado:")
 print("")
 print(df_frutas.tail(3))
 print("")
-# 6 Obtenha Um Resumo Estátistico Das Colunas Numéricas (como preço e estoque).
+# 6 Obtenha Um Resumo Estátistico Das Colunas Numéricas (Como Preço E Estoque).
 
 print("Resumo Descritivo Do Mercado:")
 print("")
